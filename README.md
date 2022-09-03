@@ -28,7 +28,7 @@ first install CMake.  After doing so, you can run cmake to create the project
 files for your desired platform.  You can run `cmake --help` to get platform-specific
 options, but here are a couple basic examples:
 
-**armhf (raspbian)**
+**Linux**
  
 From the root directory of the checkout, run:
 
